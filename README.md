@@ -1,5 +1,5 @@
 # :bus: iMOD-analysis
->데이터 분석 및 서비스 개선점 고찰 </br>
+>수요응답형 버스 이력 데이터 분석 및 서비스 개선점 고찰 </br>
 >https://greenjade.tistory.com/category/Project
 
 </br>
@@ -21,8 +21,8 @@
 ### 목표
 
 1. 실이동수요 단위로 묶어주기 
-2. 서비스 유저 입장에서 서비스의 단점 추측해보기
-3. Key Performance Indicator 선정 및 주어진 자료로 지표 뽑기
+2. 서비스 수요자 입장에서 서비스의 단점 추측해보기
+3. 수요와 공급의 균형을 위한 Key Performance Indicator 선정 및 주어진 자료로 지표 뽑기
 4. 향후 서비스 개선을 위해 수집해야 할 자료에 대한 방향성 제언
 
 </br>
