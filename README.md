@@ -1,6 +1,6 @@
 # :bus: iMOD-analysis
 >수요응답형 버스 이력 데이터 분석 및 수요 유발 원인 고찰 </br>
->https://greenjade.tistory.com/category/Project
+>LINK : https://greenjade.tistory.com/category/Project
 
 </br>
 
@@ -10,8 +10,8 @@
 - 2023년 7월 20일 ~ 7월 27일 2차 (자료정리, 지표탐색 추가)
   
 학술지
-이재형, 김지원, 정진혁, 김진희. (2023). 직접 수요모형을 활용한 건조 환경과 수요응답형 대중교통 수요의 관계 분석: 인천 영종도를 중심으로. 대한교통학회지, 41(6), 690-703. 
-https://static3.apub.kr/journalsite/sites/kst/2023-041-06/N0210410604/N0210410604.pdf
+- 이재형, 김지원, 정진혁, 김진희. (2023). 직접 수요모형을 활용한 건조 환경과 수요응답형 대중교통 수요의 관계 분석: 인천 영종도를 중심으로. 대한교통학회지, 41(6), 690-703. 
+- LINK : https://static3.apub.kr/journalsite/sites/kst/2023-041-06/N0210410604/N0210410604.pdf
 
 </br>
 
