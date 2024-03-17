@@ -1,8 +1,7 @@
 # :bus: iMOD-analysis
 >수요응답형 대중교통 이력 데이터 및 수요원인 분석  </br>
->LINK[DA] : https://greenjade.tistory.com/category/Project
->
->LINK[Demand Model] : https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11656699
+>LINK [focused on DA] : https://greenjade.tistory.com/category/Project  </br>
+>LINK [Demand Model] : https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11656699
 
 
 </br>
